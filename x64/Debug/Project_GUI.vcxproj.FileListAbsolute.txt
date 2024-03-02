@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Project_GUI\x64\Debug\Project_GUI.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Project_GUI\x64\Debug\Project_GUI.exe
+C:\Users\User\source\repos\Project_GUI\x64\Debug\ProjectGUI.MyForm.resources
+C:\Users\User\source\repos\Project_GUI\x64\Debug\Project_GUI.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator\x64\Debug\Project_GUI.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculator\x64\Debug\Project_GUI.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator\x64\Debug\Calculator.exe
+C:\Users\User\source\repos\Calculator\x64\Debug\Calculator.MyForm.resources
